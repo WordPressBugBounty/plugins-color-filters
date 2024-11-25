@@ -3,8 +3,8 @@ Contributors: rustaurius, EtoileWebDesign
 Donate link: https://www.etoilewebdesign.com/plugin-donations/
 Tags: woocommerce, woocommerce filter, woocommerce filters, color, filter, color filter, colour filter, product filter, price filter, woocommerce color filter, woocommerce colour filter, woocommerce price filter, woocommerce product filter, category, product, layered navigation
 Requires at least: 4.0
-Tested up to: 6.6
-Stable tag: 3.3.4
+Tested up to: 6.7
+Stable tag: 3.3.5
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -197,6 +197,9 @@ In the "Basic" area of the "Options" tab in our WooCommerce filters plugin, ther
 7. Adding color filter to a WooCommerce product
 
 == Changelog ==
+
+= 3.3.5 (2024-11-25) =
+- Tested with WordPress 6.7.
 
 = 3.3.4 (2024-07-16) =
 - Tested with WordPress 6.6.

@@ -7,9 +7,9 @@ Author: Etoile Web Design
 Author URI: https://www.etoilewebdesign.com
 Terms and Conditions: http://www.etoilewebdesign.com/plugin-terms-and-conditions/
 Text Domain: color-filters
-Version: 3.3.4
+Version: 3.3.5
 WC requires at least: 7.1
-WC tested up to: 9.0
+WC tested up to: 9.4
 */
 
 if ( ! defined( 'ABSPATH' ) )
@@ -54,7 +54,7 @@ class ewduwcfInit {
 		define( 'EWD_UWCF_PLUGIN_URL', untrailingslashit( plugin_dir_url( __FILE__ ) ) );
 		define( 'EWD_UWCF_PLUGIN_FNAME', plugin_basename( __FILE__ ) );
 		define( 'EWD_UWCF_TEMPLATE_DIR', 'ewd-uwcf-templates' );
-		define( 'EWD_UWCF_VERSION', '3.3.4' );
+		define( 'EWD_UWCF_VERSION', '3.3.5' );
 
 		define( 'EWD_UWCF_WOOCOMMERCE_POST_TYPE', 'product' );
 		define( 'EWD_UWCF_PRODUCT_COLOR_TAXONOMY', 'product_color' );
